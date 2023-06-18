@@ -1,11 +1,11 @@
-About r-shinycustomloader
-=========================
+About r-shinycustomloader-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinycustomloader-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=shinycustomloader
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinycustomloader-feedstock/blob/main/LICENSE.txt)
 
 Summary: A custom css/html or gif/image file for the loading screen in R 'shiny'. It also can use the marquee to have custom text loading screen.
 
